@@ -22,8 +22,6 @@ def movement(slow, fast, dir):
 
 def on_press(key):
     global r_control, shift
-    # print('{0} pressed'.format(
-    #     key))
     match key:
         case Key.ctrl_r:
             r_control = True

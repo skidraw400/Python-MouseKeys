@@ -21,4 +21,4 @@
         ```
         pip install pynput
         ```
-<!-- - Download standalone .exe file from releases for Windows -->
+- Download standalone .exe file from [releases](https://github.com/skidraw400/Python-MouseKeys/releases/latest) (for Windows)
