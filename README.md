@@ -5,8 +5,8 @@
 | Key | Action | notes |
 |---|---| --- |
 | **END PROGRAM** | **right control** + **ESC** ||
-| **right shift** + **right control** <br> ![click](images/leftclick.png) | **Left click** | Hold shift **and then click control** <br> ctrl + shift is shortcut to change input language in Windows|
-| **menu** <br> ![menu key](images/menukey.png "Title") | **Right click** ||
+| **right shift** + **right control** <br> ![click](https://raw.githubusercontent.com/skidraw400/Python-MouseKeys/main/images/leftclick.png) | **Left click** | Hold shift **and then click control** <br> ctrl + shift is shortcut to change input language in Windows|
+| **menu** <br> ![menu key](https://raw.githubusercontent.com/skidraw400/Python-MouseKeys/main/images/menukey.png "Title") | **Right click** ||
 | clicking arrows | moving cursor ||
 | hold **right shift** while moving | **shorter** cursor movement distance ||
 | hold **right control** while moving | **longer** cursor movement distance ||
